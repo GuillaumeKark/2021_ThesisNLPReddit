@@ -1,0 +1,3 @@
+The url for the gme_stock CSV. Don't forget to put your API KEY INSIDE!
+
+https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=GME&apikey=&datatype=csv&outputsize=full
